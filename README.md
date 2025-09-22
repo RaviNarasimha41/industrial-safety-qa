@@ -1,17 +1,4 @@
-Perfect! I can generate a **fully polished, submission-ready `README.md`** with:
 
-* Neat section structure
-* Markdown tables for evaluation results
-* Code blocks for setup, API requests, and responses
-* Placeholders for your 8 questions’ baseline/hybrid answers
-* Optional sample image section for “proof of work”
-* Clear instructions for frontend and backend
-
-Here’s a ready-to-paste version:
-
----
-
-````markdown
 # Industrial Safety Q&A — Mini RAG Project
 
 ## 1. Project Overview
