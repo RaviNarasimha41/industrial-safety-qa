@@ -171,20 +171,14 @@ The system was evaluated using the following 8 curated questions:
 
 * **Reranker improves answer relevance:** blending vector similarity and keyword relevance helps prioritize the most grounded evidence.
 * **Abstain logic is crucial:** prevents returning low-confidence answers, maintaining system trustworthiness.
-* **Mini RAG is lightweight but effective:** a small corpus and CPU-only setup is sufficient for domain-specific Q\&A.
+* **Mini RAG is lightweight but effective:** a small corpus and CPU-only setup is sufficient for domain-specific Q&A.
 * **Frontend evaluation table:** allows quick comparison between baseline and hybrid answers with direct source links.
 
 ---
 
-## 8. Proof of Work (Optional Images)
+## 8. Proof of Work 
 
-![Sample Chat Interface](./Users/ravinarasimha/qa-safety/screenshots/Screenshot 2025-09-22 at 10.47.53 PM.png)
-*Figure 1: Industrial Safety Q\&A chat interface showing highlighted terms and sources.*
 
-![Evaluation Table](.//Users/ravinarasimha/qa-safety/screenshots/Screenshot 2025-09-22 at 10.48.02 PM.png)
-*Figure 2: Baseline vs Hybrid evaluation table after running 8 questions.*
-
-> Add screenshots from your frontend to this folder (`./screenshots`) for submission.
 
 ---
 
