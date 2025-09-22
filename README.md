@@ -141,7 +141,7 @@ The system was evaluated using the following 8 curated questions:
 | Explain the use of safety harness.           | PLACEHOLDER\_BASELINE\_7 | PLACEHOLDER\_HYBRID\_7 | hybrid          | No        |
 | Why are MSDS sheets important?               | PLACEHOLDER\_BASELINE\_8 | PLACEHOLDER\_HYBRID\_8 | hybrid          | No        |
 
-> Replace placeholders with actual answers after running the API. The "Abstained" column reflects whether the system chose to abstain based on threshold.
+> Replace placeholders with actual answers after running the API. The "Abstained" column reflects whether the system chose to abstain based on the threshold.
 
 ---
 
@@ -203,11 +203,3 @@ The system was evaluated using the following 8 curated questions:
 * Fill the evaluation table placeholders after running API.
 
 ```
-
----
-
-I can also generate the **`results.md`** file with the same 8 questions and placeholders, so you don’t have to maintain two separate files manually.  
-
-Do you want me to do that next?
-```
-# industrial-safety-qa
